@@ -15,6 +15,6 @@ public class Balance {
 
     @Override
     public String toString() {
-        return bankName + " " + borrowerName + " " + totalAmountPaid + " " + numberOfEmiRemaining +"\n";
+        return bankName + " " + borrowerName + " " + totalAmountPaid + " " + numberOfEmiRemaining;
     }
 }
